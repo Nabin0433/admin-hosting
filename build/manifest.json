@@ -1,0 +1,15 @@
+{
+  "short_name": "Admin Pannel",
+  "name": "CoreUI-React Ultimodeal Admin Pannel",
+  "icons": [
+    {
+      "src": "./assets/img/favicon.png",
+      "sizes": "100x100",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#26798E",
+  "background_color": "#FF9900"
+}

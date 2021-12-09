@@ -1,0 +1,2 @@
+.card{border:"0";margin-bottom:"30px";margin-top:"30px";border-radius:"6px";color:"rgba(" + hexToRgb(blackColor) + ", 0.87)";background:whiteColor;width:"100%";box-shadow:"0 1px 4px 0 rgba(" + hexToRgb(blackColor) + ", 0.14)";position:"relative";display:"flex";flex-direction:"column";min-width:"0";word-wrap:"break-word";font-size:".875rem"}.cardPlain{background:"transparent";box-shadow:"none"}.cardProfile{margin-top:"30px";text-align:"center"}
+/*# sourceMappingURL=14.fea79b2c.chunk.css.map */
